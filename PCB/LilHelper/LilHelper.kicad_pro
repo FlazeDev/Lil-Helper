@@ -490,7 +490,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../../../../DevPad.step",
+      "step": "../../../LilHelper_PCB.step",
       "svg": "",
       "vrml": ""
     },
