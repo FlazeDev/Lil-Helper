@@ -21,10 +21,10 @@ PCB
 I used kmk to make firmware since im already familiar with python.  
 
 # BOM
-12x Cherry MX Switches
-1x Xiao RP2040
-1x EC11 Rotary encoder
-16x Through-hole 1N4148 Diodes
-4x M3x16mm screws
-4x M3x5mx4mm heatset inserts
+12x Cherry MX Switches  
+1x Xiao RP2040  
+1x EC11 Rotary encoder  
+16x Through-hole 1N4148 Diodes  
+4x M3x16mm screws  
+4x M3x5mx4mm heatset inserts  
 
