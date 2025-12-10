@@ -7,8 +7,7 @@ OVERALL HACKPAD
 I do video editing, 3d modelling, making games, music, and studying too. So, I needed something that could increase my efficiency, and here it is, my lil helper.
 
 # CAD
-I made the CAD using onshape(too dumb to learn freecad and my pc didnt have enough space for fusion in my c drive). Took me waayy too long, but its done.  
-CAD
+I made the CAD using onshape(too dumb to learn freecad and my pc didnt have enough space for fusion in my c drive). Took me waayy too long, but its done.  CAD
 <img width="903" height="577" alt="Case_Fit" src="https://github.com/user-attachments/assets/49dde5bb-8715-4990-b322-9ddbe928c7a0" />
 
 # PCB
