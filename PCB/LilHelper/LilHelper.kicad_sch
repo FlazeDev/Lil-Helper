@@ -1541,12 +1541,6 @@
 		)
 	)
 	(junction
-		(at 128.27 91.44)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0e921ed6-2210-4dbf-974e-87b52436f2b9")
-	)
-	(junction
 		(at 104.14 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1614,7 +1608,7 @@
 	)
 	(wire
 		(pts
-			(xy 133.35 91.44) (xy 128.27 91.44)
+			(xy 116.84 91.44) (xy 133.35 91.44)
 		)
 		(stroke
 			(width 0)
@@ -1624,23 +1618,23 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 66.04) (xy 167.64 66.04)
+			(xy 165.1 60.96) (xy 165.1 101.6)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "04522718-b927-442c-a2e8-76d344134076")
+		(uuid "1cf4cb9b-71c3-4367-b9fd-7df219f48b78")
 	)
 	(wire
 		(pts
-			(xy 214.63 76.2) (xy 204.47 76.2)
+			(xy 223.52 71.12) (xy 223.52 72.39)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "11a2f757-6b78-4841-bbe9-601b08ee4a3f")
+		(uuid "206966d6-ef25-48c1-b00c-22a6cbd03c46")
 	)
 	(wire
 		(pts
@@ -1674,6 +1668,16 @@
 	)
 	(wire
 		(pts
+			(xy 204.47 76.2) (xy 219.71 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a1802a6-89c3-4d04-8fdc-8ea706ba1379")
+	)
+	(wire
+		(pts
 			(xy 212.09 93.98) (xy 215.9 93.98)
 		)
 		(stroke
@@ -1681,6 +1685,16 @@
 			(type default)
 		)
 		(uuid "3b175097-603c-42e9-973b-72ed781ed498")
+	)
+	(wire
+		(pts
+			(xy 204.47 71.12) (xy 223.52 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3c6ff5db-e68b-4cbc-969e-1184791c0004")
 	)
 	(wire
 		(pts
@@ -1714,13 +1728,13 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 91.44) (xy 116.84 91.44)
+			(xy 165.1 101.6) (xy 176.53 101.6)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "532751eb-96ca-40a1-8f91-4717de8a7b74")
+		(uuid "510b6a60-ff1e-4af4-a8a3-472ff7618462")
 	)
 	(wire
 		(pts
@@ -1731,26 +1745,6 @@
 			(type default)
 		)
 		(uuid "53adb2a9-6ca7-4a57-98e5-fe17ab75af2d")
-	)
-	(wire
-		(pts
-			(xy 214.63 58.42) (xy 214.63 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5bddcac9-f1ee-45ea-84f8-8a560327ea9a")
-	)
-	(wire
-		(pts
-			(xy 128.27 58.42) (xy 214.63 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5c7ff8e1-4c13-4f96-b311-38833b38d798")
 	)
 	(wire
 		(pts
@@ -1774,16 +1768,6 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 101.6) (xy 176.53 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "68e94695-94be-4752-aa96-37ebdefa91e1")
-	)
-	(wire
-		(pts
 			(xy 93.98 83.82) (xy 93.98 99.06)
 		)
 		(stroke
@@ -1791,6 +1775,16 @@
 			(type default)
 		)
 		(uuid "70b9dd59-6e5f-405b-8e93-4c1294a29c11")
+	)
+	(wire
+		(pts
+			(xy 219.71 76.2) (xy 219.71 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7433904d-24b2-4cb3-93aa-461f28e6bc2c")
 	)
 	(wire
 		(pts
@@ -1814,6 +1808,16 @@
 	)
 	(wire
 		(pts
+			(xy 229.87 60.96) (xy 165.1 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "88c80064-0e4c-4476-b385-e8e1bb7a071e")
+	)
+	(wire
+		(pts
 			(xy 106.68 99.06) (xy 106.68 114.3)
 		)
 		(stroke
@@ -1821,16 +1825,6 @@
 			(type default)
 		)
 		(uuid "909b79e5-9093-45e5-aa8c-8bab3c82e3cf")
-	)
-	(wire
-		(pts
-			(xy 128.27 83.82) (xy 128.27 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9b8714ec-3ea1-41a1-8718-aa9e34c21195")
 	)
 	(wire
 		(pts
@@ -1904,13 +1898,13 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 71.12) (xy 208.28 71.12)
+			(xy 219.71 81.28) (xy 229.87 81.28)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c31f6c68-9ba3-4c6b-8c43-56c0010f4c52")
+		(uuid "d06824e7-19e3-44e9-bbc7-35b1701f9397")
 	)
 	(wire
 		(pts
@@ -1921,26 +1915,6 @@
 			(type default)
 		)
 		(uuid "d09dba55-742a-40ff-b88c-7ceb8f55a79b")
-	)
-	(wire
-		(pts
-			(xy 167.64 66.04) (xy 167.64 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d80253c5-8f3d-40dc-a2eb-53706de604e0")
-	)
-	(wire
-		(pts
-			(xy 208.28 71.12) (xy 208.28 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dbf9d2fe-1502-47ed-888e-7d8a22eb5763")
 	)
 	(wire
 		(pts
@@ -1971,6 +1945,16 @@
 			(type default)
 		)
 		(uuid "fddcfe4e-e106-4f2b-9af2-e390c379aa5f")
+	)
+	(wire
+		(pts
+			(xy 229.87 81.28) (xy 229.87 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fed423ec-1b76-42bc-a025-49e51113f37d")
 	)
 	(wire
 		(pts
@@ -2489,6 +2473,72 @@
 			(project "DevPad"
 				(path "/ebf25cd4-ec5f-48be-b22c-fa83898bbeab"
 					(reference "SW10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 223.52 72.39 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "266e9000-8908-4f3d-a9d3-e4dfbbd20661")
+		(property "Reference" "#PWR01"
+			(at 223.52 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 223.52 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 223.52 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 223.52 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 223.52 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4f69d863-4eed-4079-a0a5-60d7c2ecae4a")
+		)
+		(instances
+			(project ""
+				(path "/ebf25cd4-ec5f-48be-b22c-fa83898bbeab"
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -3146,94 +3196,6 @@
 			(project "DevPad"
 				(path "/ebf25cd4-ec5f-48be-b22c-fa83898bbeab"
 					(reference "D11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:1N4148")
-		(at 128.27 87.63 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "61ee3b6f-4d0b-4688-bfb5-811192480f5d")
-		(property "Reference" "D13"
-			(at 130.81 86.3599 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N4148"
-			(at 130.81 88.8999 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 128.27 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 128.27 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "100V 0.15A standard switching diode, DO-35"
-			(at 128.27 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 128.27 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 128.27 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "0f7f16c9-36df-42df-b0cf-86cd6cb02af2")
-		)
-		(pin "1"
-			(uuid "ff5c28fa-1b82-449d-9c8c-14be15cc004e")
-		)
-		(instances
-			(project "DevPad"
-				(path "/ebf25cd4-ec5f-48be-b22c-fa83898bbeab"
-					(reference "D13")
 					(unit 1)
 				)
 			)
